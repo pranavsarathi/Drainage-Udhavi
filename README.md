@@ -3,6 +3,7 @@
 AI-Based Drainage Inspection & Assistance System for Indian Urban Infrastructure
 
 
+
 📌 Problem Statement
 
 Urban drainage systems in India face frequent issues such as:
@@ -11,12 +12,15 @@ Urban drainage systems in India face frequent issues such as:
 	•	Poor maintenance and delayed inspection
 	•	Lack of real-time monitoring
 
+
 Current inspection methods are:
 	•	Manual
 	•	Time-consuming
 	•	Often inaccurate or delayed
 
 This leads to urban flooding, health risks, and infrastructure damage.
+
+
 
 
 💡 Solution Overview
@@ -29,3 +33,5 @@ Unlike typical detection systems, this project focuses on:
 	•	Problem detection
 	•	Severity estimation
 	•	Suggested corrective actions
+
+(Currently we are building this platform)
